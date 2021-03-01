@@ -1,4 +1,6 @@
 #Jetson_Nano_Fan_Control
+
+
 Automagic fan control for the Nvidia Jetson Nano
 
 ## Requirements:
@@ -17,7 +19,7 @@ run
 
 The script will automatically run at boot time.
 
-##HOW to Remove or Uninstall: 
+HOW to Remove or Uninstall: 
 run
 
     sudo ./uninstall.sh
